@@ -19,6 +19,7 @@ import java.util.Optional;
 
 @Controller
 public class WizardController {
+	
 
     @Autowired
     private CourseRepository courseRepository;
